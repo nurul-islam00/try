@@ -1,0 +1,7 @@
+com/example/MongoPractice/model/Student.class
+com/example/MongoPractice/service/UserService.class
+com/example/MongoPractice/repository/UserRepository.class
+com/example/MongoPractice/model/User.class
+com/example/MongoPractice/model/Ad.class
+com/example/MongoPractice/MongoPracticeApplication.class
+com/example/MongoPractice/controller/UserController.class
